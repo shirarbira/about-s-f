@@ -1,0 +1,45 @@
+body{
+	line-height: 20px;
+	margin-right: 50px;
+	margin-left: 65px;
+	margin-top: 65px;
+}
+
+
+.name{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 24px;
+
+}
+.about-me{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 13px;
+	padding-top: 15px;
+}
+.links{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 14px;
+	padding-top: 10px;
+}
+h1{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 20px;
+	padding-top: 12px;
+	text-decoration: underline;
+}
+.experience span{
+
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 14px;
+	background-color:#FFFF00;
+}
+.taeyoon{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 13px;
+	margin-left: 60px;
+}
+li{
+	font-family: "Helvetica", Helvetica, Helvetica;
+	font-size: 13px;
+	margin-left: 90px;
+}
